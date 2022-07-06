@@ -53,7 +53,7 @@ code {
   align-items: center;
   flex-wrap: wrap;
 
-  text-align: center;
+  text-align: right;
 }
 
 .header img {
@@ -66,7 +66,7 @@ code {
 }
 
 .header__content {
-  width: 400px;
+  width: 450px;
   margin: 0 auto;
 }
 
