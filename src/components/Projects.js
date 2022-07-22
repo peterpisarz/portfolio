@@ -1,7 +1,7 @@
 // Import images
 import sxswpunks from '../assets/sxswpunks.jpg';
 import hollycoin from '../assets/hollycoin.jpg';
-import project3 from '../assets/project3.jpg';
+import project3 from '../assets/povtexas.png';
 
 const Projects = () => {
     return (
@@ -11,9 +11,19 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
+                    <h3>Original Photography</h3>
+                    <img src={project3} alt="Open Emoji Project" />
+                    <p>This is my first custom NFT project. I took all these photos and added customized metadata for additional unique characteristics.
+                    </p>
+
+                    <a href="https://pov-texas.on.fleek.co/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/peterpisarz/POV-Texas" target="_blank" className="button">Code</a>
+                </div>
+
+                <div className="projects__card">
                     <h3>SXSW Punks</h3>
                     <img src={sxswpunks} alt="SXSW Punks NFT Launch" />
-                    <p>This NFT project used an art generator to develop 100 unique "SXSW Punks" that can be 
+                    <p>This NFT project used an art generator to develop 25 unique "SXSW Punks" that can be 
                     minted and displayed on OpenSea
                     </p>
 
@@ -33,17 +43,8 @@ const Projects = () => {
                     <a href="https://github.com/peterpisarz/hollycoin" target="_blank" className="button">Code</a>
                 </div>
 
-                <div className="projects__card">
-                    <h3>Open Emojis</h3>
-                    <img src={project3} alt="Open Emoji Project" />
-                    <p>This project generated artwork from an open source emoji library. 
-                    It was then deployed to the blockchain using the ERC721 token standard.
-                    </p>
-
-                    <a href="https://open-emoji.on.fleek.co/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/peterpisarz/Open-Emoji" target="_blank" className="button">Code</a>
-                </div>
             </div>
+
         </section>
     );
 }
