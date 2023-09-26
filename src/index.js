@@ -11,6 +11,11 @@ root.render(
   </React.StrictMode>
 );
 
+// Include the YouTube Player API script here
+const script = document.createElement('script');
+script.src = 'https://www.youtube.com/iframe_api';
+document.body.appendChild(script);
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
