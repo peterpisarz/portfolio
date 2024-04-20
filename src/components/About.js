@@ -6,21 +6,21 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Active blockchain developer with a deep interest in NFT technology.
                 As a former aerospace engineer, I found my career disrupted during the pandemic.
                 With commercial air travel down over 90%, I knew it was time to 
                 learn new skills. I had purchased some of my first crypto but admitted to
                 myself that I really didn't understand the tech side so I began taking tutorials
-                online via Dapp University. I had an interest in programming since high school
+                online via Dapp University.<br/><br/>
+                I had an interest in programming since high school
                 and found it fun to return to those skills. My first project was developing my
-                own token and decentralized exchange. While I found this interesting and a great
-                learning experience, it wasn't until I got involved with NFTs that my
-                enthusiasm had piqued. I've created NFT projects with art generators and have
-                uploaded much of my photography on opensea. I'm currently developing a
-                batch uploader for photographers such as myself. It's a great unity of my
-                logic side and artistic side, but I'm always searching for new NFT use cases.
-                I can see huge potential for the NFT space in music, real estate, sports and 
-                beyond!
+                own token and decentralized exchange. After completing this project, I got involved with NFTs. 
+                I've created NFT projects with art generators and have
+                uploaded much of my photography on opensea.<br/><br/> 
+                I moved on from tutorials to develop my own projects completely from scratch. Most recently is my Tournament Project
+                which organizes an eight man sports bracket I developed for jiu jitsu athletes. It's entirely a product
+                of my own ideas and logic which I am refining to be used in real life. It's a way of collecting registration fees
+                and distributing them to the tournament promoter and winner of the bracket. Please explore, provide feedback and reach
+                out to discuss further!
             </p>
         </section>
     );
