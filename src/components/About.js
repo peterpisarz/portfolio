@@ -8,7 +8,7 @@ const About = () => {
             <p>
                 As a former aerospace engineer, I found my career disrupted during the pandemic.
                 With commercial air travel down over 90%, I knew it was time to 
-                learn new skills. I had purchased some of my first crypto but admitted to
+                learn new skills. I had purchased some of my first cryptocurrencies but admitted to
                 myself that I really didn't understand the tech side so I began taking tutorials
                 online via Dapp University.<br/><br/>
                 I had an interest in programming since high school
