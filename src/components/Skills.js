@@ -10,7 +10,7 @@ const Skills = () => {
 				<li> Alchemy (Forking and Node connection)</li>
 				<li> React (Front End Component based User Interface)</li>
 				<li> MetaMask (Ethereum Wallet)</li>
-				<li> Git/GitHub (Commit our code)</li>
+				<li> Git/GitHub (Commiting Code to Repository)</li>
 				<li> Fleek (Website Deployment)</li>
 			</p>
 		</section>
