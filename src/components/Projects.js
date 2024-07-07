@@ -6,6 +6,7 @@ import leverage from '../assets/leverage.png';
 import lapiscina from '../assets/lapiscina.png';
 import dashboard from '../assets/dashboard.png';
 import leveragegrappling from "../assets/leveragegrappling.png";
+import leverage_grappling from "../assets/leverage-grappling.png";
 import arbibot from "../assets/arbibot.png"
 
 const Projects = () => {
@@ -17,10 +18,11 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Tournament Smart Contract</h3>
-                    <img src={leveragegrappling} alt="HSC Dashboard" />
+                    <img src={leverage_grappling} alt="HSC Dashboard" />
                     <p>My smart contract for running an eight man tournament for jiu jitsu competitors. Tracks wins and loses in a bracket and payouts to the winner.
                     </p>
                     <div class="button-container">
+                        <a href="https://leverage-grappling.on.fleek.co/" target="_blank" className="button">Site</a>
                         <a href="https://github.com/peterpisarz/Leverage-Grapping" target="_blank" className="button">Code</a>
                     </div>    
                 </div>
