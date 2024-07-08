@@ -6,14 +6,6 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                As a former aerospace engineer, I found my career disrupted during the pandemic.
-                With commercial air travel down over 90%, I knew it was time to 
-                learn new skills. I had purchased some of my first cryptocurrencies but admitted to
-                myself that I really didn't understand how it worked, so I began to dive deeper into
-                the programming side of things.
-
-                <br/><br/>
-                
                 I started with Dapp University in Spring of 2021 with their Blockchain Bootcamp. The bootcamp walks you 
                 through creating a decentralized token exchange (DEX) you'll find in my portfolio below. I also took 
                 an interest in NFTs and created a project from some of my own photography. 
