@@ -22,8 +22,8 @@ const Projects = () => {
                     <p>My smart contract for running an eight man tournament for jiu jitsu competitors. Tracks wins and loses in a bracket and payouts to the winner.
                     </p>
                     <div class="button-container">
-                        <a href="https://leverage-grappling.on.fleek.co/" target="_blank" className="button">Site</a>
-                        <a href="https://github.com/peterpisarz/Leverage-Grapping" target="_blank" className="button">Code</a>
+                        <a href="https://leverage-grappling.on-fleek.app/" target="_blank" className="button">Site</a>
+                        <a href="https://sepolia.basescan.org/address/0x6f01fA9C2077b64F32DE2a3CDacfE6836d7903F7#code" target="_blank" className="button">Code</a>
                     </div>    
                 </div>
 

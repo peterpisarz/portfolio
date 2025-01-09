@@ -20,7 +20,7 @@ const About = () => {
 
                 <br/><br/>
 
-                I moved on from tutorials to develop my own projects completely from scratch. Most recently is my Tournament Project
+                I moved on from tutorials to <b>develop my own projects</b> completely from scratch. Most recently is my Tournament Project
                 which organizes an eight man sports bracket I developed for jiu jitsu athletes. It's entirely a product
                 of my own ideas and logic which I am refining to be used in real life. It's a way of collecting registration fees
                 and distributing them to the tournament promoter and winner of the bracket. 
@@ -33,7 +33,7 @@ const About = () => {
                 
                 <br/><br/>
 
-                Please explore, provide feedback and <a href="https://www.linkedin.com/in/peter-joseph-p/" target="_blank">reach out</a> to discuss further!
+                Please explore, provide feedback and <a href="https://www.linkedin.com/in/peter-pisarz-6b339088/" target="_blank">reach out</a> to discuss further!
 
             </p>
         </section>
