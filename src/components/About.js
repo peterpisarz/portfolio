@@ -32,7 +32,7 @@ const About = () => {
                 I thrive in fast-paced environments, collaborating with cross-functional teams to deliver secure, efficient solutions. My 
                 GitHub and LinkedIn showcase my portfolio of blockchain and AI projects, reflecting my passion for pushing technological 
                 boundaries. Explore my work, provide feedback, and 
-                <a href="https://www.linkedin.com/in/peter-pisarz-6b339088/" target="_blank">connect</a> to discuss how I can drive your 
+                <a href="https://www.linkedin.com/in/peter-pisarz-6b339088/" target="_blank"> connect</a> to discuss how I can drive your 
                 next project to success.
 
             </p>
